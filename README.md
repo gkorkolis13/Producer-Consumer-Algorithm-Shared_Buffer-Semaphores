@@ -1,0 +1,2 @@
+# Producer-Consumer-Algorithm-Shared_Buffer-Semaphores
+Mini project for my Operating Systems Course. We were instructed to create the producer-consumer algorithm including a shared buffer.  Goal was to read data from an input file, have the producer create and insert the extracted data onto a share buffer.  The consumer takes it from the shared buffer and inserts the retrieved data onto an output file.
